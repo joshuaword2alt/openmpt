@@ -86,4 +86,4 @@ Contributing to OpenMPT/libopenmpt
 See [contributing](doc/contributing.md).
 
 # there's more trackers to check out
-[other-trackers](https://warmplace.ru/forum/viewtopic.php?p=21759&sid=f45152fb956aa1b53fd37e3cc75b0efc#p21759)
+[other-trackers](https://warmplace.ru/forum/viewtopic.php?p=21759&sid=f45152fb956aa1b53fd37e3cc75b0efc#p21759) go check out
